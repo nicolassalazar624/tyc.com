@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightblue;
+}
+p {
+    color: black;
+}
